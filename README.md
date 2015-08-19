@@ -23,3 +23,4 @@ Curated list of podcasts that might be interesting to people who write software
  - Arrested Devops: https://itunes.apple.com/us/podcast/arrested-devops/id773888088
  - Linux Action Show: http://www.jupiterbroadcasting.com/tag/linux-action-show/
  - Linux Reality Podcast: http://linuxreality.com/
+ - CodeNewbie: http://www.codenewbie.org/
