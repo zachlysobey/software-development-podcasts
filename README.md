@@ -29,3 +29,4 @@ Curated list of podcasts that might be interesting to people who write software
  - The Cognicast: http://blog.cognitect.com/cognicast/
  - Pete on Software: http://www.peteonsoftware.com/
  - 5 Minutes of JavaScript: https://fivejs.codeschool.com/
+ - The Web Platform Podcast: http://thewebplatform.libsyn.com/
