@@ -25,3 +25,4 @@ Curated list of podcasts that might be interesting to people who write software
  - Linux Reality Podcast: http://linuxreality.com/
  - CodeNewbie: http://www.codenewbie.org/
  - ThoughtWorks podcasts: https://itunes.apple.com/us/podcast/thoughtworks/id881136697?mt=2 (or mixed with other posts at http://www.thoughtworks.com/insights)
+ - The Bike Shed: http://bikeshed.fm/
