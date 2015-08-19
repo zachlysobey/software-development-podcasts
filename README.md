@@ -28,3 +28,4 @@ Curated list of podcasts that might be interesting to people who write software
  - The Bike Shed: http://bikeshed.fm/
  - The Cognicast: http://blog.cognitect.com/cognicast/
  - Pete on Software: http://www.peteonsoftware.com/
+ - 5 Minutes of JavaScript: https://fivejs.codeschool.com/
