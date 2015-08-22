@@ -35,3 +35,4 @@ Curated list of podcasts that might be interesting to people who write software
  - Angular Air: http://angular-air.com/
  - Adventures in Angular: https://devchat.tv/adventures-in-angular 
  - NodeUp: http://nodeup.com/
+ - The Changelog: https://changelog.com/podcast/
