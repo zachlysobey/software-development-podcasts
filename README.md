@@ -38,3 +38,4 @@ Curated list of podcasts that might be interesting to people who write software
  - The Changelog: https://changelog.com/podcast/
  - The Web Ahead: http://5by5.tv/webahead 
  - Herding Code: http://herdingcode.com/category/podcast/
+ - Lately in Javascript: http://www.jsclasses.org/blog/category/podcast/
