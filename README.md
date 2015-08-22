@@ -19,7 +19,6 @@ Curated list of podcasts that might be interesting to people who write software
  - Boag World: http://boagworld.com/show/
  - This developer’s life: http://thisdeveloperslife.com/ (I think this one is dead now, but some good stuff)
  - WebDev Radio: http://webdevradio.com/
- - Coder Radio: http://www.jupiterbroadcasting.com/20392/pardon-our-dust-coder-radio/
  - Arrested Devops: https://itunes.apple.com/us/podcast/arrested-devops/id773888088
  - Linux Action Show: http://www.jupiterbroadcasting.com/tag/linux-action-show/
  - Linux Reality Podcast: http://linuxreality.com/
