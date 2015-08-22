@@ -37,3 +37,4 @@ Curated list of podcasts that might be interesting to people who write software
  - NodeUp: http://nodeup.com/
  - The Changelog: https://changelog.com/podcast/
  - The Web Ahead: http://5by5.tv/webahead 
+ - Herding Code: http://herdingcode.com/category/podcast/
