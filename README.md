@@ -40,3 +40,4 @@ Curated list of podcasts that might be interesting to people who write software
  - Lately in Javascript: http://www.jsclasses.org/blog/category/podcast/
  - Ruby Rogues: https://devchat.tv/ruby-rogues/
  - Indie Dev: https://indiedevpodcast.wordpress.com/ 
+ - Software Engineering Daily: http://softwareengineeringdaily.com/
