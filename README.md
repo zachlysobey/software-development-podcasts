@@ -32,3 +32,5 @@ Curated list of podcasts that might be interesting to people who write software
  - The Web Platform Podcast: http://thewebplatform.libsyn.com/
  - The Big Web Show: http://5by5.tv/bigwebshow
  - /dev/hell: http://devhell.info/
+ - Angular Air: http://angular-air.com/
+ - Adventures in Angular: https://devchat.tv/adventures-in-angular 
