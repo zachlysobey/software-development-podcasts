@@ -1,6 +1,14 @@
 # software-development-podcasts
 Curated list of podcasts that might be interesting to people who write software
 
+## UPDATE ##
+
+I just discovered the [*aweseome-geek-podcasts*](https://github.com/guipdutra/awesome-geek-podcasts) project, which seems like it nearly exactly what I was going for, but more mature. I plan to [see if our goals align](https://github.com/guipdutra/awesome-geek-podcasts/issues/89) and perhaps decomission this project in favor of that one if they do.
+
+> https://github.com/guipdutra/awesome-geek-podcasts
+
+-------
+
  - Hansel Minutes: http://hanselminutes.com/
  - Shoptalk Show: http://shoptalkshow.com/
  - JavaScript Jabber: http://javascriptjabber.com/
